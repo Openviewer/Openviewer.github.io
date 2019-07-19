@@ -694,7 +694,7 @@ img {
 }
 #home {
 	background: url(../images/bg-mia.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
+	-webkit-background-size: length;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
